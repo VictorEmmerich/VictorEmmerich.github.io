@@ -1,0 +1,10 @@
+D:\2DS2\DS\DS - 2DS2\windows_form_II\windows_form_II\bin\Debug\windows_form_II.exe.config
+D:\2DS2\DS\DS - 2DS2\windows_form_II\windows_form_II\bin\Debug\windows_form_II.exe
+D:\2DS2\DS\DS - 2DS2\windows_form_II\windows_form_II\bin\Debug\windows_form_II.pdb
+D:\2DS2\DS\DS - 2DS2\windows_form_II\windows_form_II\obj\Debug\windows_form_II.csprojAssemblyReference.cache
+D:\2DS2\DS\DS - 2DS2\windows_form_II\windows_form_II\obj\Debug\windows_form_II.Form1.resources
+D:\2DS2\DS\DS - 2DS2\windows_form_II\windows_form_II\obj\Debug\windows_form_II.Properties.Resources.resources
+D:\2DS2\DS\DS - 2DS2\windows_form_II\windows_form_II\obj\Debug\windows_form_II.csproj.GenerateResource.cache
+D:\2DS2\DS\DS - 2DS2\windows_form_II\windows_form_II\obj\Debug\windows_form_II.csproj.CoreCompileInputs.cache
+D:\2DS2\DS\DS - 2DS2\windows_form_II\windows_form_II\obj\Debug\windows_form_II.exe
+D:\2DS2\DS\DS - 2DS2\windows_form_II\windows_form_II\obj\Debug\windows_form_II.pdb
